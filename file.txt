@@ -19496,7 +19496,7 @@ dzen.ru##.desktop2--base-button__regular--M.desktop2--base-button__m-2y.desktop2
 www.bing.com##.b_phead_chat_link
 
 ! test
-||r.mradx.net
-||avatars.mds.yandex.net
-dzen.ru##div[class="news-mt-advert__banner"]
-dzen.ru##div[class="news-advert-column"]
+||r.mradx.net^
+||avatars.mds.yandex.net^
+dzen.ru^##div[class="news-mt-advert__banner"]
+dzen.ru^##div[class="news-advert-column"]
