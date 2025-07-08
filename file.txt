@@ -19497,3 +19497,6 @@ www.bing.com##.b_phead_chat_link
 
 ! test
 ||r.mradx.net
+||avatars.mds.yandex.net
+||dzen.ru##.news-mt-advert__banner
+||dzen.ru##.news-advert-column
